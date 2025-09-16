@@ -25,7 +25,6 @@ The project demonstrates how to combine **unidirectional data flow** with **Comp
 - **Kotlin**
 - **Jetpack Compose**
 - **MVI architecture**
-- **Coroutines + Flow**
 
 ---
 
