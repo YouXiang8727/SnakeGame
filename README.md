@@ -15,7 +15,6 @@ The project demonstrates how to combine **unidirectional data flow** with **Comp
 ---
 
 ## 📷 Screenshots
-*(add screenshots of your game here, for example in `assets/` folder)*
 
 ![Gameplay](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW82YncyZXJucWkxZHptcDNvZzMxd2E2bzhsaTNrZTRkZmt5eXNqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2f7u8TY0cqE3juUwuo/giphy.gif)
 
